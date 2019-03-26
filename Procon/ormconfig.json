@@ -3,7 +3,7 @@
   "host": "localhost",
   "port": 5432,
   "username": "postgres",
-  "password": "test",
+  "password": "123456",
   "database": "procondb",
   "synchronize": true,
   "logging": false,
